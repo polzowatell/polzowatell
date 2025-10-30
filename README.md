@@ -1,3 +1,33 @@
-### Проекти в яких я приймаю участь
+# Привет! 👋 Я Python-разработчик
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>.ENV</title><path d="M24 0v24H0V0h24ZM10.933 15.89H6.84v5.52h4.198v-.93H7.955v-1.503h2.77v-.93h-2.77v-1.224h2.978v-.934Zm2.146 0h-1.084v5.52h1.035v-3.6l2.226 3.6h1.118v-5.52h-1.036v3.686l-2.259-3.687Zm5.117 0h-1.208l1.973 5.52h1.19l1.976-5.52h-1.182l-1.352 4.085-1.397-4.086ZM5.4 19.68H3.72v1.68H5.4v-1.68Z"/svg>
+💻 Люблю автоматизацию, анализ данных и создание проектов с Python.  
+
+---
+
+### 🛠 Мои навыки
+![Python](https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)  
+
+---
+
+### 🚀 Проекты
+[![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge)](https://github.com/username/project1)  
+[![Web App](https://img.shields.io/badge/Web-App-green?style=for-the-badge)](https://github.com/username/project2)  
+
+---
+
+### 🎨 Python в действии
+![Фон с анимацией](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
+![Код печатается](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)  
+![Курсор Python](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)  
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+---
+
+### 📫 Контакты
+- [LinkedIn](https://linkedin.com/in/username)  
+- [Twitter](https://twitter.com/username)  
+- [GitHub](https://github.com/username)
