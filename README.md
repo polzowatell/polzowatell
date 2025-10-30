@@ -8,8 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)  
 
 ---
 
@@ -21,8 +19,6 @@
 
 ### 🎨 Python in Action
 ![Animated Background](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
-![Python Cursor](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)  
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ---
 
